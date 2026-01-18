@@ -1,0 +1,2 @@
+# Weather-Forecasting-By-using-Time-series-RNN-LSTMS
+The "Weather Forecasting for Agricultural Improvement" project aims to utilize advanced technology and data to enhance agriculture and increase farm productivity. This project develops an intelligent forecasting system using weather, climate, and soil data with machine learning and data analysis techniques to provide accurate weather predictions.
